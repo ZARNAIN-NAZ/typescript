@@ -109,6 +109,129 @@
 // const sum = evalv  ("34+34*6")
 // console.log(sum)
 
-const obj = {1:"a" , 2:"b" , 3:"c"}
-console.log(obj.hasOwnProperty('1'))
-console.log(obj.hasOwnProperty(1))
+// const obj = {1:"a" , 2:"b" , 3:"c"}
+// console.log(obj.hasOwnProperty('1'))
+// console.log(obj.hasOwnProperty(1))
+
+// const obj ={a:"one" , b:"two" ,b:"twoooo",m:"repeat"}
+// console.log(obj)
+
+// for( let  i=1; i<5; i++){
+//     if(i===0)continue;
+//     console.log(i)
+// }
+
+// const foo = ()=>console.log("first")
+// const ba=()=> setTimeout(()=>console.log("second"))
+// const j=()=> console.log("third")
+// foo()
+// ba()
+// j()
+
+// const person ={name:"ali"}
+// function his(age){
+//     return `${this.name}  is ${age}`
+// }
+// console.log(his.call(person,21))
+// console.log(his.bind(person,21)())
+
+// function hi(){
+//     return(()=>0
+//       )()
+// }
+// console.log( typeof hi())
+
+// function her(){
+//     return()=>0
+// }
+// console.log( her() ())
+
+// console.log(typeof typeof 2)
+
+// const n = [2,4,3,2]
+// n[43] =90;
+// console.log(n)
+
+// let n =[3,23,22]
+// n[32]=n;
+// console.log(n)
+
+// console.log(!!null)
+// console.log(!!"")
+// console.log(!!1)
+
+// console.log(setInterval(()=>console.log("hi"),9000))
+// console.log(setInterval(()=>console.log("hi"),9000))
+// console.log(setInterval(()=>console.log("hi"),9000))
+
+// console.log(...[4,3,43],"zarnain")
+
+// let data = 4+3+"3";
+// console.log( data)
+
+// console.log(typeof 3+3+3 +"3")
+
+// console.log(typeof(3+4+5+"3"))
+
+// console.log(typeof {})
+// console.log( []== [])
+
+// let data =[1,23,32 ].map(num=>{
+//     if(typeof num =="number ") return;
+//     return num*2
+//  })
+// console.log(data)
+
+// function info(member){
+//     member.name ="zara"
+// }
+// const person ={name:"sarah"}
+// info(person)
+// console.log(person)
+
+// function car (){
+//     this.make = "tata"
+//     return{make:"kia"}
+// }
+// const mycar = new car()
+// console.log(mycar.make)
+
+// (()=>{
+//     let x = (y=78);
+// })()
+// console.log(typeof x )
+
+// (()=>{
+//         let x = y=78;
+//     })()
+//     console.log(typeof y )
+
+    // (()=>{
+    //     let x = 9;
+    // })()
+    // (()=>{
+    //     let x = 8;
+    // })()
+
+    
+// (()=>{
+//     let x = y=78;
+// })()
+
+
+// (()=>{
+//         let x = y=8;
+//     })()
+//     console.log( y )
+
+// let x = 100;
+// (()=>{
+//     var x = 34;
+// })();
+// console.log(x)
+
+// console.log(!true -true)
+
+//console.log(true ++"10")
+
+    
