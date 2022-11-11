@@ -41,3 +41,4 @@
 // variableTypeTest2  = typeof (testVariable)
 // console.log(variableTypeTest1)
 // console.log(variableTypeTest2)
+//
