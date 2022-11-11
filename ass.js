@@ -78,7 +78,7 @@
 // function fruit ()
 // {
 //     console.log("apple")
-
+// 
 // }
 // fruit.name = "woof"
 // fruit()
