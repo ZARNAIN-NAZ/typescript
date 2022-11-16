@@ -18,12 +18,61 @@
 // console.log(famouse_person+msg)
 
 //ques6
-// var e ="zarnain"
+// var e ="    zarnain \t  \n naz     "
 // console.log(e)
 
+//ques7,8
+// console.log(6+2)
+// console.log(10-2)
+// console.log(4*2)
+// console.log(16/2)
+
+//question 9
+// var n =2;
+// var m = "hello  "+n
+// console.log(m)
+
+//question 10
+/*
+here we have to practice multi line comments ,
+as we can see here!
+*/
+
+//question 11
+// var arr  = [ "maria ", "alyana " , " manahil" ," minal "]
+// console.log(arr[0])
+// console.log(arr[1])
+// console.log(arr[2])
+// console.log(arr[3])
 
 
+//question 12
+// var arr  = [ "maria ", "alyana " , " manahil" ," minal "]
+// console.log("hello \t"+arr[0])
+// console.log("hey \t"+arr[1])
+// console.log("hi \t"+arr[2])
+// console.log("please \t"+arr[3])
 
+//quesiton13
+// var j = [
+//     "i like civic" , 
+//  "i miss corola ",
+//  "i am intersted in 4x4" ,
+//   "i like mehran also" ,"but! motorcyle is still best "
+// ]
+// console.log(j[4])
+
+//question 14
+var  r = [ "Adeeba " , "alina" ,"hasham "]
+console.log("i am here to invite u all on dinner guyz..!"  +r)
+
+//question 15 (replace 1 name )
+// r[1] = "khizar"
+// console.log(r)
+
+//quesiton 16
+r.splice("zarina " , " ali " ,"sajid ")
+console.log(r)
 
 
 
