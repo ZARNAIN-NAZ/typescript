@@ -8,7 +8,7 @@ export default function Home() {
   return( <div className={styles.container}> 
   <Head>
     <title>
-      NEXTJS WELCOME
+      NEXTJS HELLO
     </title>
   </Head>
   <Link href="/about"> About</Link>
